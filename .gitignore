@@ -1,0 +1,8 @@
+.sencha
+.sencha/*
+build
+build/*
+ext
+ext*
+.project
+workspace.json
